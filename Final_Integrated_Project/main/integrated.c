@@ -76,7 +76,7 @@ static const adc_unit_t unit = ADC_UNIT_1;
 // above: car control
 
 
-#define EXAMPLE_WIFI_SSID "Group_17"
+#define EXAMPLE_WIFI_SSID "Lin Ma"
 #define EXAMPLE_WIFI_PASS "smart-systems"
 static const char *rxTAG="APP";
 static const char *carTAG="APP";
